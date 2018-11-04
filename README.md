@@ -14,4 +14,4 @@ BONUS Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on 
 
 Your Bootstrap solution should minimize use of media queries.
 
-I used bootstrap and css to use the grid sytem layout providing by bootstrap.
+I used css and bootstrap's grid sytem layout to make my first responsive portfolio.
